@@ -1,4 +1,20 @@
-### Hi there 👋
+<div align="center">
+ 
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=180&section=header)
+ 
+ 	
+### 안녕하세요👋 iOS Developer 송우진입니다.
+
+
+### [진행 프로젝트](https://song1900.github.io/)
+
+<br/>
+ 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=song1900&show_icons=true&theme=dracula)
+
+
+### 📞 Contact
+[![email](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white)](mailto:woojin1900@gmail.com)
 
 <!--
 **song1900/song1900** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +30,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+</div>
+
+
