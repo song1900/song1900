@@ -7,6 +7,7 @@
 
 
 ### [진행 프로젝트](https://song1900.github.io/)
+### [개발 일지 노션](https://rural-navy-95b.notion.site/WOOJIN-daf972a9979d4063804ce5d6c31c82b9?pvs=4)
 
 <br/>
  
