@@ -5,7 +5,7 @@
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Microsoft-Teams-Animated-Emojis/master/Emojis/Hand%20gestures/Folded%20Hands%20Light%20Skin%20Tone.png" alt="Folded Hands Light Skin Tone" width="25" height="25" /> Contact
 
 [![gmail](https://skillicons.dev/icons?i=gmail)](mailto:woojin1900@gmail.com)
-[![notion](https://skillicons.dev/icons?i=notion)](https://moonhnxe.notion.site/Hailey-31eef4ff269843258d2754b21bc949c5?pvs=74)
+[![notion](https://skillicons.dev/icons?i=notion)](https://www.notion.so/WOOJIN-daf972a9979d4063804ce5d6c31c82b9)
 
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="Star" width="25" height="25" /> Skills
