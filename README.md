@@ -5,14 +5,16 @@
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Microsoft-Teams-Animated-Emojis/master/Emojis/Hand%20gestures/Folded%20Hands%20Light%20Skin%20Tone.png" alt="Folded Hands Light Skin Tone" width="25" height="25" /> Contact
 
 [![gmail](https://skillicons.dev/icons?i=gmail)](mailto:woojin1900@gmail.com)
+<!--
 [![notion](https://skillicons.dev/icons?i=notion)](https://www.notion.so/WOOJIN-daf972a9979d4063804ce5d6c31c82b9)
-
+-->
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="Star" width="25" height="25" /> Skills
 
 [![My Skills](https://skillicons.dev/icons?i=swift,apple,python,git,github,githubactions,html,css,js,bitbucket,figma,firebase)](https://skillicons.dev)
 
 
+<!-- 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Woman%20Fairy%20Light%20Skin%20Tone.png" alt="Woman Fairy Light Skin Tone" width="25" height="25" /> Activities
 
 - [iOS] 건국대 전용 맛집 서비스, [ [쿠스토랑](https://github.com/kustaurant/iOS-kustaurant) ] 개발 <sup>2024.07 ~ ing
@@ -24,5 +26,5 @@
 - [Frontend] 웹 에이전시 소속, 다수 프로젝트 참여 (수협 중앙회 메인 홈페이지 개편, SK 텔링크 선불 서비스 개발, 암웨이 코리아 운영, 동부화재 보상모바일 개발, 산업은행 운영) <sup>2016.08 ~ 2018.07
 
  
-
+-->
 
