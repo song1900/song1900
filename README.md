@@ -1,7 +1,7 @@
 ## 송우진
 #### iOS Developer 🔥
-<br>
 
+<!--
 ### 👨🏻‍💻 Activities
 
 - **[iOS]** 건국대 전용 맛집 서비스, [ [쿠스토랑](https://github.com/kustaurant/iOS-kustaurant) ] 개발 <sup>2024.07 ~ ing
@@ -13,13 +13,14 @@
 - **[Frontend]** 웹 에이전시 소속, 다수 프로젝트 참여 (수협 중앙회 메인 홈페이지 개편, SK 텔링크 선불 서비스 개발, 암웨이 코리아 운영, 동부화재 보상모바일 개발, 산업은행 운영) <sup>2016.08 ~ 2018.07
 
 
+
 ### 📞 Contact
 [![email](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white)](mailto:woojin1900@gmail.com)
 
 
 ### 🔗 Link
 [프로젝트 포트폴리오](https://woojin1900.oopy.io/)
-
+-->
 
 <br>
 
