@@ -28,8 +28,6 @@ Mobile Developer 🔥
 
 <br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=song1900&hide_progress=true&theme=radical)
-![Woojin Song's GitHub stats](https://github-readme-stats.vercel.app/api?username=song1900&show_icons=true&theme=radical)
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=song1900)](https://solved.ac/song1900)
 ![Leetcode Stats](https://leetcard.jacoblin.cool/song1900?theme=dark)
