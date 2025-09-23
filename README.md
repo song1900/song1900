@@ -6,7 +6,7 @@
 Mobile Developer 🔥
 </h3>
 
-<br>
+<br><br>
 
 <p align="center">
 <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=iOS&logoColor=white"/>
@@ -22,11 +22,7 @@ Mobile Developer 🔥
 <br>
 <br>
 
-- Email: woojin1900@gmail.com
-- Blog: https://247ios.tistory.com
-- GitHub: https://github.com/song1900
 
-<br>
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=song1900)](https://solved.ac/song1900)
