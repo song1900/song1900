@@ -2,7 +2,7 @@
 <br>
 
 <h3 align="center">
-Mobile & AI Product Developer 🔥
+Mobile App Developer 🔥
 </h3>
 
 <br>
